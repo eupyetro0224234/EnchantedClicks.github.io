@@ -39,9 +39,6 @@
 2. Instale o Pygame:
     ```bash
     pip install pygame
-
-
-
 <details> <summary>🕒 Commits / Registros de alteração</summary>
 ✅ Initial commit: 16/06/2025 - 15h11
 1 arquivo adicionado
