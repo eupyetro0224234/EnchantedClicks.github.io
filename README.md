@@ -39,14 +39,9 @@
 2. Instale o Pygame:
     ```bash
     pip install pygame
-<details> <summary>📌 Clique aqui para ver mais detalhes (exemplo oculto)</summary>
-Aqui você pode colocar conteúdo extra, instruções avançadas, notas de desenvolvimento, imagens ou blocos de código:
 
-python
-Copiar
-Editar
-print("Exemplo de código dentro da seção oculta")
-</details>
+
+
 <details> <summary>🕒 Commits / Registros de alteração</summary>
 ✅ Initial commit: 16/06/2025 - 15h11
 1 arquivo adicionado
