@@ -1,6 +1,4 @@
-Para saber mais sobre acesse o link abaixo:
-   ```bash
-   https://eupyetro0224234.github.io/
+Para saber mais sobre, [clique aqui](https://eupyetro0224234.github.io/)
 
 ---
 
