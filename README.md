@@ -26,7 +26,7 @@ Para saber mais sobre, [clique aqui](https://eupyetro0224234.github.io/)
 - `button.py`: Classe que controla a animação do botão e clique.
 - `background.py`: Função para desenhar o fundo quadriculado colorido.
 - `storage.py`: Funções para salvar e carregar dados criptografados localmente.
-- `index.html`: Arquivo de teste simples com "Olá Mundo".
+- `index.html`: Site com informações do projeto (e alguns segredinhos)".
 
 ---
 
