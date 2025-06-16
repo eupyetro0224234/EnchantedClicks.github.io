@@ -25,6 +25,10 @@ Enchanted Clicks é um jogo clicker simples feito em Python usando Pygame, onde 
 
 ## Como usar
 
-1. Instale o Pygame:  
+1. Clone o reposiório:
+   ```bash
+   https://github.com/eupyetro0224234/EnchantedClicks.github.io
+
+2. Instale o Pygame:
    ```bash
    pip install pygame
