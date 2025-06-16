@@ -35,12 +35,10 @@
 1. Clone o repositório:
    ```bash
    git clone https://github.com/eupyetro0224234/EnchantedClicks.github.io
-Instale o Pygame:
 
-bash
-Copiar
-Editar
-pip install pygame
+2. Instale o Pygame:
+    ```bash
+    pip install pygame
 <details> <summary>📌 Clique aqui para ver mais detalhes (exemplo oculto)</summary>
 Aqui você pode colocar conteúdo extra, instruções avançadas, notas de desenvolvimento, imagens ou blocos de código:
 
