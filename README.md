@@ -94,10 +94,8 @@ Linhas: +20 / -2
 
 Descrição:
 
-Inclusão da seção <details> com conteúdo oculto.
+Inclusão da seção com conteúdo oculto.
 
 Ajustes de texto em instruções.
 
 Primeira tentativa de registro manual de alterações.
-
-</details>
