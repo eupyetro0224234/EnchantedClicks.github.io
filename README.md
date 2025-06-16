@@ -27,8 +27,26 @@ Enchanted Clicks é um jogo clicker simples feito em Python usando Pygame, onde 
 
 1. Clone o reposiório:
    ```bash
-   https://github.com/eupyetro0224234/EnchantedClicks.github.io
+   git clone https://github.com/eupyetro0224234/EnchantedClicks.github.io
 
 2. Instale o Pygame:
    ```bash
    pip install pygame
+
+
+<details>
+  <summary>Clique aqui para ver mais detalhes</summary>
+
+  Aqui você pode colocar o conteúdo que ficará oculto inicialmente. Pode ser texto, listas, código, imagens, etc.
+
+  ```python
+  print("Exemplo de código dentro da seção oculta")
+</details>
+
+## Commits / Registros de alteração
+
+- `Initial commit`: 16/06/2025 - 15h11
+- **1 file changed +1 -0 lines changed - # EnchancedClicks.github.io**
+
+- `Initial commit`: 16/06/2025 - 15h25
+- **8 files changed +212 -0 lines changed - # EnchancedClicks.github.io**
