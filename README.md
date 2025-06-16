@@ -2,6 +2,8 @@ Para saber mais sobre acesse o link abaixo:
    ```bash
    https://eupyetro0224234.github.io/
 
+---
+
 **Enchanted Clicks** é um jogo *clicker* simples feito em **Python** usando **Pygame**, onde o jogador ganha pontos clicando em um botão animado. O jogo possui sistema de upgrades e armazenamento local dos dados com criptografia simples.
 
 ---
