@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <!-- bloqueia pinch-zoom -->
+  <meta name="viewport"
+        content="width=device-width,
+                 initial-scale=1,
+                 maximum-scale=1,
+                 user-scalable=no" />
+  <title>Termux Clicker</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    /* impede seleção / cópia */
+    *{
+      user-select:none;
+      -webkit-user-select:none;
+      -ms-user-select:none;
+      -moz-user-select:none;
+      -webkit-touch-callout:none;
+    }
+    body{overflow:hidden;} /* sem rolagem */
+  </style>
+</head>
+
+<body oncontextmenu="return false">  <!-- bloqueia menu de contexto -->
+  <h1>🐱‍💻 Termux Clicker</h1>
+  <div id="score">0</div>
+  <button id="click-btn">CLIQUE!</button>
+
+  <!-- todo o JS (jogo + bloqueios) está em script.js -->
+  <script src="script.js"></script>
+</body>
+</html>
